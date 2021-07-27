@@ -2,7 +2,8 @@
  [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/ndleah?tab=repositories)
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/ndleah) 
 
-# Preparing for Google Cloud Certification: Cloud Data Engineer Professional <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
+# Preparing for Google Cloud Certification: Cloud Data Engineer Professional <img src="https://github.com/mesbahiba/Google-Data-Engineer/blob/main/Google-G_360x360.jfif
+" align="right" width="120" />
 
 ## 📍 About this Professional Certificate
 Identify the purpose and value of the key Big Data and Machine Learning products in Google Cloud.
@@ -18,7 +19,7 @@ Choose between different data processing products on Google Cloud.
 ## 🥇 Professional Certificate
 
 <p align="center">
-<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/certificate/8H6UT8SHWYPD-1.png" width=80% height=80%>
+<img src="https://github.com/mesbahiba/Google-Data-Engineer/blob/main/Data.png" width=80% height=80%>
 
 ---
 
@@ -32,7 +33,7 @@ This course introduces participants to the big data capabilities of Google Cloud
 
 - [x] [__Modernizing Data Lakes and Data Warehouses with GCP__]
 
-  The two key components of any data pipeline are data lakes and warehouses. This course highlights use-cases for each type of storage and dives into the available data lake and warehouse solutions on Google Cloud Platform in technical detail. Also, this course describes the role of a data engineer, the benefits of a successful data pipeline to business operations, and examines why data engineering should be done in a cloud environment. Learners will get hands-on experience with data lakes and warehouses on Google Cloud Platform using QwikLabs.
+ The two key components of any data pipeline are data lakes and warehouses. This course highlights use-cases for each type of storage and dives into the available data lake and warehouse solutions on Google Cloud Platform in technical detail. Also, this course describes the role of a data engineer, the benefits of a successful data pipeline to business operations, and examines why data engineering should be done in a cloud environment. Learners will get hands-on experience with data lakes and warehouses on Google Cloud Platform using QwikLabs.
 
 
 - [X] [__Building Batch Data Pipelines on GCP__ ]
@@ -49,7 +50,8 @@ Incorporating machine learning into data pipelines increases the ability of busi
 
 
 - [x] [__Preparing for the Google Cloud Professional Data Engineer Exam__]
-The purpose of this course is to help those who are qualified develop confidence to attempt the exam, and to help those not yet qualified to develop their own plan for preparation.
+
+ The purpose of this course is to help those who are qualified develop confidence to attempt the exam, and to help those not yet qualified to develop their own plan for preparation.
 
 ---
 <p>&copy; 2021 Md. Mesbahul Islam Chowdhury </p>
