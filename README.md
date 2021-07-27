@@ -2,8 +2,7 @@
  [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/ndleah?tab=repositories)
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/ndleah) 
 
-# Preparing for Google Cloud Certification: Cloud Data Engineer Professional <img src="https://github.com/mesbahiba/Google-Data-Engineer/blob/main/Google-G_360x360.jfif
-" align="right" width="120" />
+# Preparing for Google Cloud Certification: Cloud Data Engineer Professional <img src="https://github.com/mesbahiba/Google-Data-Engineer/blob/main/Google-G_360x360.jfif" align="right" width="120" />
 
 ## 📍 About this Professional Certificate
 Identify the purpose and value of the key Big Data and Machine Learning products in Google Cloud.
